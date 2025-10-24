@@ -18,9 +18,7 @@ This repository contains supplementary materials for the article:
 
 **Funding:** This work was supported in part by the University of Haifa Data Science Research Center.
 
-**Journal:** [Journal Name], 2025  
-**DOI:** [Insert DOI]
-
+**Journal:** Journal Of Biomedical & Health Informatics From IEEE EMBS, 2025  
 ---
 
 ## Abstract
@@ -39,7 +37,7 @@ The ML-CAT enables more efficient lexical development assessment, allowing for w
 
 ### 1. List of Words
 
-The top 50 words for the **Understood** (`DS_u`) and **Produced** (`DS_p`) datasets, with Hebrew transliteration and English translation, are provided in [`appendix/list_of_words.pdf`](appendix/list_of_words.pdf).  
+The top 50 words for the **Understood** (`DS_u`) and **Produced** (`DS_p`) datasets, with Hebrew transliteration and English translation, are provided in [`appendix/list_of_words.pdf`](appendix.pdf, page 1).  
 
 *(Example rows)*
 
@@ -53,7 +51,7 @@ The top 50 words for the **Understood** (`DS_u`) and **Produced** (`DS_p`) datas
 
 ### 2. Figures
 
-- [`appendix/figures/final_score_est.png`](appendix/figures/final_score_est.png) — Function fitting that maps estimated ability to CDI score (0–full CDI words).  
+- [`appendix.pdf, page 2) — Function fitting that maps estimated ability to CDI score (0–full CDI words).  
 
 ---
 
